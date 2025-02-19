@@ -1,3 +1,4 @@
+# loop_vs_vec.py program
 import numpy as np
 import timeit
 import statistics
