@@ -51,12 +51,8 @@ source .venv/bin/activate
 Install the required Python packages using pip:
 ```sh
 pip3 install -r requirements.txt
- ```
----
-Install requirement packages:
-```sh
-pip3 install -r requirements.txt
 ```
+
 ---
 
 ## 🚀 Usage
