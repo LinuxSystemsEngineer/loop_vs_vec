@@ -117,3 +117,5 @@ Pull requests are welcome! If you have any suggestions for improvement, please o
 ## Screenshots
 
 ![Loops vs Vectorization Benchmark Screenshot](./img/20250219_loops_vs_vec_v2.png)
+
+---
