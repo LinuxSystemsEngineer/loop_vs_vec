@@ -24,22 +24,40 @@ loop_vs_vec/
 
 To run this benchmark, ensure you have **Python 3.+** installed.
 
-1️⃣ Clone the repository and change directories:
+---
 
+Clone this GitHub repository:
 ```sh
  git clone https://github.com/your-username/loop_vs_vec.git
 ```
+---
+
+Change directories into your newly cloned GitHub repository:
 ```sh
  cd loop_vs_vec
  ```
-
-2️⃣ Install requirement packages:
-
+ ---
+Create a segmented Python virtual environment:
+```sh
+python3 -m venv .venv
+ ```
+ ---
+ 
+Activate the segmented Python virtual environment:
+```sh
+source .venv/bin/activate
+ ```
+---
+Install the required Python packages using pip:
+```sh
+pip3 install -r requirements.txt
+ ```
+---
+Install requirement packages:
 ```sh
 pip3 install -r requirements.txt
 ```
-
-----------
+---
 
 ## 🚀 Usage
 
@@ -103,6 +121,3 @@ Pull requests are welcome! If you have any suggestions for improvement, please o
 ## Screenshots
 
 ![Loops vs Vectorization Benchmark Screenshot](./img/20250219_loops_vs_vec_v2.png)
-
-
-
