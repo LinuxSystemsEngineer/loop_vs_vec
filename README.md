@@ -98,3 +98,9 @@ This project is **open-source** under the MIT License. Feel free to fork and con
 
 Pull requests are welcome! If you have any suggestions for improvement, please open an issue or fork the repo. 
 
+---
+
+## Screenshots
+
+![Loops vs Vectorization Benchmark Screenshot](./img/20250219_loops_vs_vec.png)
+
