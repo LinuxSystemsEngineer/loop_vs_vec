@@ -28,7 +28,7 @@ To run this benchmark, ensure you have **Python 3.+** installed.
 
 Clone this GitHub repository:
 ```sh
- git clone https://github.com/your-username/loop_vs_vec.git
+ git clone https://github.com/LinuxSystemsEngineer/loop_vs_vec.git
 ```
 ---
 
